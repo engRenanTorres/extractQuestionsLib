@@ -1,0 +1,20 @@
+{
+  "name":"libtest",
+  "version":"1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test":"echo \"Error: no test specified\" && exit 1",
+    "cli": "node cli.js ./files/test.md"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Renan de Souza",
+    "email": "engrtorres@outlook.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "type": "module"
+}
