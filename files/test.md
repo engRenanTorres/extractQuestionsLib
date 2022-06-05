@@ -32,7 +32,7 @@ eficácia de medidas de controle futuras
 28
 Entre os conceitos apresentados na norma ABNT ISO
 31000:2018, encontra-se o de gestão de riscos, que en-
-volve um(a)
+volve um:
 (A) tratamento de riscos, o qual deve ser implementado
 para que os agentes atuem no controle da probabili-
 dade simultaneamente ao controle de consequências.
